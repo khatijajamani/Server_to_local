@@ -1,3 +1,6 @@
+Hello 
+Good Morning 
+Today is Monday
 We are learning to pull and push commits.
 We will be workig on forks and also we will some other important commands.
 Ok bye!!
